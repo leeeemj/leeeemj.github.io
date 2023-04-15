@@ -1,4 +1,4 @@
-.content-box-text-title {
+ .content-box-text-title {
   color: blue;
   font-weight: bold;
 }
@@ -8,6 +8,7 @@
 
 .tool-box-content {
 }
+
 .tool-icon {
   width: 100px;
   height: 100px;
